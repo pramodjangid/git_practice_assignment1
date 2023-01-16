@@ -1,8 +1,8 @@
-let num=2;
 
-if(num%2==0){
-console.log(`Yes`)
-}
-else {
-console.log(`No`)
-}
+
+let num =12;
+
+(num%2==0)?console.log("it's a Even"):console.log("it's Odd");
+
+
+
